@@ -1,0 +1,9 @@
+.App {
+  width: 0;
+  height: 0;
+  border: 50px solid;
+  border-color: #f00 #0f0 #ccc #00f;
+}
+.App div {
+  font-size: 20px;
+}
